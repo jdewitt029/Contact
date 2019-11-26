@@ -1,0 +1,12 @@
+body{
+	background-image: url("Blue BG.jpg");
+	background-size: 70%;
+}
+
+header{
+	font-family: Lucida Grande;
+	font-size: 42px;
+	color: white;
+	background-color: navy;
+	position: inline;
+}
